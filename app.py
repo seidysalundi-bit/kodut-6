@@ -67,7 +67,7 @@ JSON_PAYLOAD_STR = """{
   }
 }"""
 
-GEOJSON_FILE = "maakonnad.geojson"
+GEOJSON_FILE = "zip://maakonnad.zip"
 
 
 @st.cache_data
